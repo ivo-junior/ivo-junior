@@ -26,10 +26,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivo-junior&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-junior&layout=compact&theme=dracula)
+Atualmente estou tornando meus projetos públicos e organizando minha presença open-source. A maior parte do meu trabalho envolvia repositórios privados ou soluções corporativas.
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivo-junior&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=ivo-junior&theme=tokyonight)
+
+🚧 Em atualização: Estou reestruturando meus projetos públicos e começando a compartilhar mais soluções open-source.  
+💡 Muitos dos projetos anteriores foram desenvolvidos sob NDA ou para empresas privadas.  
+📦 Agora estou focando em publicar bibliotecas úteis para a comunidade Flutter e ferramentas baseadas em IA.
+
 
 ---
 
