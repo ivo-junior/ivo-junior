@@ -31,7 +31,7 @@
 Atualmente estou tornando meus projetos públicos e organizando minha presença open-source. A maior parte do meu trabalho envolvia repositórios privados ou soluções corporativas.
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivo-junior&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used?username=ivo-junior&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-junior&layout=compact&theme=dracula)
 
 🚧 Em atualização: Estou reestruturando meus projetos públicos e começando a compartilhar mais soluções open-source.  
 💡 Muitos dos projetos anteriores foram desenvolvidos sob NDA ou para empresas privadas.  
